@@ -1,1 +1,56 @@
 
+name: Codzienny monitor cen RX 9060 XT
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: gpu-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Pobierz projekt
+        uses: actions/checkout@v4
+
+      - name: Zainstaluj Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Zainstaluj biblioteki
+        run: pip install -r requirements.txt
+
+      - name: Sprawdz ceny kart
+        run: python scripts/check_prices.py
+
+      - name: Zapisz historie cen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Automatyczna aktualizacja cen"
+            git push
+          fi
+
+      - name: Skonfiguruj GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Przygotuj strone
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Opublikuj strone
+        uses: actions/deploy-pages@v4
