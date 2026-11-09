@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <meta name="description" content="Monitor codziennych cen nowych kart Radeon RX 9060 XT 16 GB w polskich sklepach. Porównaj oferty, historię cen i ustaw limit zakupowy.">
+  <title>GPU HUNTER — RX 9060 XT 16 GB</title>
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="icon" href="./icon.svg" type="image/svg+xml">
+</head>
+<body>
+  <header class="top shell">
+    <div class="brand"><div class="logo" aria-hidden="true">⌁</div><div>GPU HUNTER<small>PRICE TRACKER</small></div></div>
+    <div class="nav-right"><div class="live warn" id="liveBadge"><span class="dot"></span><span id="statusLabel">Ładowanie danych...</span></div><a class="navlink" href="https://tagdip.pl/m/3/radeon-rx-9060-xt-16-gb" target="_blank" rel="noopener noreferrer">Źródło cen ↗</a></div>
+  </header>
+  <main class="shell">
+    <section class="hero">
+      <div>
+        <div class="eyebrow">Twój radar okazji</div>
+        <h1>RX 9060 XT<br><span>16 GB.</span> Taniej.</h1>
+        <p>Wszystkie najważniejsze wersje karty w jednym miejscu. Porównuj aktualne odczyty, wychwytuj spadki cen i sprawdzaj, kiedy warto kupić nową sztukę.</p>
+        <div class="chips"><span class="chip">✦ Tylko 16 GB</span><span class="chip">✦ Nowe / sklepy</span><span class="chip">✦ Odczyt raz dziennie*</span></div>
+      </div>
+      <div class="gpu-scene" aria-hidden="true"><div class="gpu"><div class="fan"></div><div class="fan"></div></div><div class="gpu-tag">16 GB GDDR6 / RDNA 4</div></div>
+    </section>
+    <div id="errorBanner" class="statusbox" role="status" style="display:none"></div>
+    <section class="summary" aria-label="Podsumowanie cen">
+      <div class="stat highlight"><div class="stat-name">Najniższa oferta</div><div class="stat-value" id="minPrice">—</div><div class="stat-sub" id="minModel">Odczyty ze sklepów</div></div>
+      <div class="stat"><div class="stat-name">Zmiana 7 dni</div><div class="stat-value" id="changeWeek">—</div><div class="stat-sub">Najniższa dostępna oferta</div></div>
+      <div class="stat"><div class="stat-name">Dostępne modele</div><div class="stat-value" id="modelCount">—</div><div class="stat-sub">Nowe karty, 16 GB VRAM</div></div>
+      <div class="stat"><div class="stat-name">Ostatni odczyt</div><div class="stat-value" id="lastCheck">—</div><div class="stat-sub" id="lastCheckSub">Czas polski</div></div>
+    </section>
+    <div class="workspace">
+      <section class="panel" aria-labelledby="chartHeading"><div class="panel-head"><div><h2 class="smalltitle" id="chartHeading">Historia najniższej ceny</h2><p class="muted">Minimalna cena dostępnego modelu na każdy dzień pomiaru</p></div><span class="chip">PLN</span></div><div class="chart-wrap" id="chartArea"><p class="muted">Wczytywanie historii...</p></div></section>
+      <section class="panel" aria-labelledby="targetHeading"><div class="target-top"><h2 class="smalltitle" id="targetHeading">Mój limit cenowy</h2><div class="target-pict" aria-hidden="true">◎</div></div><label class="input-label" for="budget">Pokaż oferty nie droższe niż</label><div class="price-entry"><input id="budget" type="number" inputmode="numeric" min="1000" max="10000" step="50" value="2700"><span class="unit">PLN</span></div><p class="target-hint">Twój limit zapisuje się w tej przeglądarce. Strona wyróżni oferty poniżej limitu — bez wysyłania wiadomości e-mail.</p><div id="targetMatch" class="target-match" role="status">Sprawdzam dostępne oferty…</div></section>
+    </div>
+    <section class="section" aria-label="Wszystkie oferty">
+      <div class="section-top"><div><h2>Dostępne oferty <small id="offersCount"></small></h2><p class="muted">Zestawienie ofert i linków do produktów. Przed zakupem potwierdź cenę i stan magazynowy.</p></div><div class="tools"><input class="search" id="search" type="search" aria-label="Szukaj modelu" placeholder="Szukaj producenta..."><select id="sort" class="sort" aria-label="Sortuj oferty"><option value="asc">Najtańsze najpierw</option><option value="desc">Najdroższe najpierw</option><option value="drop">Największe spadki</option><option value="brand">Wg producenta</option></select></div></div>
+      <div class="tabs" role="group" aria-label="Filtr ofert"><button class="tab active" type="button" data-filter="all" aria-pressed="true">Wszystkie</button><button class="tab" type="button" data-filter="budget" aria-pressed="false">Poniżej limitu</button><button class="tab" type="button" data-filter="drops" aria-pressed="false">Obniżki cen</button></div>
+      <div id="cards" class="cards" aria-live="polite"></div>
+    </section>
+    <footer class="bottom"><p><strong>*Automatyczna aktualizacja</strong> działa po opublikowaniu projektu z dołączoną konfiguracją GitHub Actions. Ceny pochodzą z <a href="https://tagdip.pl/m/3/radeon-rx-9060-xt-16-gb" target="_blank" rel="noopener noreferrer">TagDip</a> i mogą być opóźnione lub różnić się od sklepowych. „Obniżka” oznacza spadek od poprzedniego pomiaru, niekoniecznie oficjalną promocję. Sklepy i ceny są niezależne od tej witryny.</p><div class="footerlinks"><button id="refresh" class="refresh" type="button">↻ Odśwież dane strony</button><a href="https://www.ceneo.pl/Karty_graficzne/Chipset:Radeon_RX_9060_XT/Wielkosc_pamieci_RAM:16GB.htm" target="_blank" rel="noopener noreferrer">Sprawdź także Ceneo ↗</a></div></footer>
+  </main>
+  <script src="./data/seed.js"></script>
+  <script src="./app.js" defer></script>
+</body>
+</html>
