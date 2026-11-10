@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-09T23:51:54+01:00",
+  "updatedAt": "2026-11-10T16:22:06+01:00",
   "source": "TagDip",
   "sourceUrl": "https://tagdip.pl/m/3/radeon-rx-9060-xt-16-gb",
   "items": [
     {
-      "id": "xfx-swift-radeon-rx-9060-xt-oc-triple-fan-gaming-16gb-gddr6",
-      "brand": "XFX",
-      "name": "XFX Swift Radeon RX 9060 XT OC Triple Fan Gaming 16GB GDDR6",
-      "merchant": "Morele",
-      "price": 2874.08,
-      "url": "https://tagdip.pl/p/12/xfx-swift-radeon-rx-9060-xt-oc-triple-fan-gaming-16gb-gddr6",
+      "id": "asrock-radeon-rx-9060-xt-challenger-oc-16gb-gddr6-rx9060xt-cl-16go",
+      "brand": "ASRock",
+      "name": "ASRock Radeon RX 9060 XT Challenger OC 16GB GDDR6 (RX9060XT CL 16GO)",
+      "merchant": "RTV Euro AGD",
+      "price": 2799.0,
+      "url": "https://tagdip.pl/p/17/asrock-radeon-rx-9060-xt-challenger-oc-16gb-gddr6-rx9060xt-cl-16go",
       "inStock": true
     },
     {
@@ -19,42 +19,6 @@
       "merchant": "RTV Euro AGD",
       "price": 2899.0,
       "url": "https://tagdip.pl/p/124/asrock-radeon-rx-9060-xt-steel-legend-oc-16gb-gddr6",
-      "inStock": true
-    },
-    {
-      "id": "gigabyte-radeon-rx-9060-xt-gaming-oc-ice-16gb-gddr6",
-      "brand": "Gigabyte",
-      "name": "Gigabyte Radeon RX 9060 XT Gaming OC ICE 16GB GDDR6",
-      "merchant": "Morele",
-      "price": 2899.0,
-      "url": "https://tagdip.pl/p/86/gigabyte-radeon-rx-9060-xt-gaming-oc-ice-16gb-gddr6",
-      "inStock": true
-    },
-    {
-      "id": "powercolor-reaper-radeon-rx-9060-xt-16gb-gddr6",
-      "brand": "PowerColor",
-      "name": "POWERCOLOR Reaper Radeon RX 9060 XT 16GB GDDR6",
-      "merchant": "Morele",
-      "price": 2970.88,
-      "url": "https://tagdip.pl/p/95/powercolor-reaper-radeon-rx-9060-xt-16gb-gddr6",
-      "inStock": true
-    },
-    {
-      "id": "asrock-radeon-rx-9060-xt-challenger-oc-16gb-gddr6",
-      "brand": "ASRock",
-      "name": "ASRock Radeon RX 9060 XT Challenger OC 16GB GDDR6",
-      "merchant": "x-kom",
-      "price": 2999.0,
-      "url": "https://tagdip.pl/p/1729/asrock-radeon-rx-9060-xt-challenger-oc-16gb-gddr6",
-      "inStock": true
-    },
-    {
-      "id": "asrock-radeon-rx-9060-xt-challenger-oc-16gb-gddr6-rx9060xt-cl-16go",
-      "brand": "ASRock",
-      "name": "ASRock Radeon RX 9060 XT Challenger OC 16GB GDDR6 (RX9060XT CL 16GO)",
-      "merchant": "RTV Euro AGD",
-      "price": 2999.0,
-      "url": "https://tagdip.pl/p/17/asrock-radeon-rx-9060-xt-challenger-oc-16gb-gddr6-rx9060xt-cl-16go",
       "inStock": true
     },
     {
@@ -70,27 +34,9 @@
       "id": "asus-prime-radeon-rx-9060-xt-oc-16gb-gddr6",
       "brand": "Asus",
       "name": "Asus Prime Radeon RX 9060 XT OC 16GB GDDR6",
-      "merchant": "Morele",
+      "merchant": "RTV Euro AGD",
       "price": 2999.0,
       "url": "https://tagdip.pl/p/34/asus-prime-radeon-rx-9060-xt-oc-16gb-gddr6",
-      "inStock": true
-    },
-    {
-      "id": "sapphire-nitro-radeon-rx-9060-xt-16gb-gddr6",
-      "brand": "Sapphire",
-      "name": "Sapphire Nitro+ Radeon RX 9060 XT 16GB GDDR6",
-      "merchant": "Morele",
-      "price": 2999.0,
-      "url": "https://tagdip.pl/p/69/sapphire-nitro-radeon-rx-9060-xt-16gb-gddr6",
-      "inStock": true
-    },
-    {
-      "id": "xfx-swift-radeon-rx-9060-xt-oc-gaming-16gb-gddr6",
-      "brand": "XFX",
-      "name": "XFX Swift Radeon RX 9060 XT OC Gaming 16GB GDDR6",
-      "merchant": "x-kom",
-      "price": 2999.0,
-      "url": "https://tagdip.pl/p/74/xfx-swift-radeon-rx-9060-xt-oc-gaming-16gb-gddr6",
       "inStock": true
     },
     {
@@ -121,12 +67,30 @@
       "inStock": true
     },
     {
-      "id": "xfx-mercury-radeon-rx-9060-xt-oc-gaming-white-16gb-gddr6",
+      "id": "xfx-swift-radeon-rx-9060-xt-oc-triple-fan-gaming-16gb-gddr6",
       "brand": "XFX",
-      "name": "XFX Mercury Radeon RX 9060 XT OC Gaming White 16GB GDDR6",
-      "merchant": "Morele",
-      "price": 3183.38,
-      "url": "https://tagdip.pl/p/63/xfx-mercury-radeon-rx-9060-xt-oc-gaming-white-16gb-gddr6",
+      "name": "XFX Swift Radeon RX 9060 XT OC Triple Fan Gaming 16GB GDDR6",
+      "merchant": "RTV Euro AGD",
+      "price": 3159.0,
+      "url": "https://tagdip.pl/p/12/xfx-swift-radeon-rx-9060-xt-oc-triple-fan-gaming-16gb-gddr6",
+      "inStock": true
+    },
+    {
+      "id": "asrock-radeon-rx-9060-xt-challenger-oc-16gb-gddr6",
+      "brand": "ASRock",
+      "name": "ASRock Radeon RX 9060 XT Challenger OC 16GB GDDR6",
+      "merchant": "Proline",
+      "price": 3175.0,
+      "url": "https://tagdip.pl/p/1729/asrock-radeon-rx-9060-xt-challenger-oc-16gb-gddr6",
+      "inStock": true
+    },
+    {
+      "id": "xfx-swift-radeon-rx-9060-xt-oc-gaming-16gb-gddr6",
+      "brand": "XFX",
+      "name": "XFX Swift Radeon RX 9060 XT OC Gaming 16GB GDDR6",
+      "merchant": "x-kom",
+      "price": 3199.0,
+      "url": "https://tagdip.pl/p/74/xfx-swift-radeon-rx-9060-xt-oc-gaming-16gb-gddr6",
       "inStock": true
     },
     {
@@ -139,11 +103,38 @@
       "inStock": true
     },
     {
+      "id": "sapphire-nitro-radeon-rx-9060-xt-16gb-gddr6",
+      "brand": "Sapphire",
+      "name": "Sapphire Nitro+ Radeon RX 9060 XT 16GB GDDR6",
+      "merchant": "Morele",
+      "price": 3484.0,
+      "url": "https://tagdip.pl/p/69/sapphire-nitro-radeon-rx-9060-xt-16gb-gddr6",
+      "inStock": true
+    },
+    {
+      "id": "powercolor-reaper-radeon-rx-9060-xt-16gb-gddr6",
+      "brand": "PowerColor",
+      "name": "POWERCOLOR Reaper Radeon RX 9060 XT 16GB GDDR6",
+      "merchant": "Morele",
+      "price": 3512.99,
+      "url": "https://tagdip.pl/p/95/powercolor-reaper-radeon-rx-9060-xt-16gb-gddr6",
+      "inStock": true
+    },
+    {
+      "id": "xfx-mercury-radeon-rx-9060-xt-oc-gaming-white-16gb-gddr6",
+      "brand": "XFX",
+      "name": "XFX Mercury Radeon RX 9060 XT OC Gaming White 16GB GDDR6",
+      "merchant": "Morele",
+      "price": 3598.67,
+      "url": "https://tagdip.pl/p/63/xfx-mercury-radeon-rx-9060-xt-oc-gaming-white-16gb-gddr6",
+      "inStock": true
+    },
+    {
       "id": "xfx-swift-radeon-rx-9060-xt-oc-white-triple-fan-gaming-16gb-gddr6",
       "brand": "XFX",
       "name": "XFX Swift Radeon RX 9060 XT OC White Triple Fan Gaming 16GB GDDR6",
       "merchant": "Morele",
-      "price": 3541.99,
+      "price": 3616.81,
       "url": "https://tagdip.pl/p/89/xfx-swift-radeon-rx-9060-xt-oc-white-triple-fan-gaming-16gb-gddr6",
       "inStock": true
     },
@@ -152,8 +143,17 @@
       "brand": "PowerColor",
       "name": "POWERCOLOR Hellhound Radeon RX 9060 XT 16GB GDDR6",
       "merchant": "Morele",
-      "price": 3564.23,
+      "price": 3674.2,
       "url": "https://tagdip.pl/p/3071/powercolor-hellhound-radeon-rx-9060-xt-16gb-gddr6",
+      "inStock": true
+    },
+    {
+      "id": "gigabyte-radeon-rx-9060-xt-gaming-oc-ice-16gb-gddr6",
+      "brand": "Gigabyte",
+      "name": "Gigabyte Radeon RX 9060 XT Gaming OC ICE 16GB GDDR6",
+      "merchant": "Proline",
+      "price": 3719.0,
+      "url": "https://tagdip.pl/p/86/gigabyte-radeon-rx-9060-xt-gaming-oc-ice-16gb-gddr6",
       "inStock": true
     },
     {
@@ -161,17 +161,8 @@
       "brand": "XFX",
       "name": "XFX Mercury Radeon RX 9060 XT OC Gaming 16GB GDDR6",
       "merchant": "Morele",
-      "price": 3656.2,
+      "price": 3731.3,
       "url": "https://tagdip.pl/p/116/xfx-mercury-radeon-rx-9060-xt-oc-gaming-16gb-gddr6",
-      "inStock": true
-    },
-    {
-      "id": "asus-tuf-gaming-radeon-rx-9060-xt-oc-16gb-gddr6",
-      "brand": "Asus",
-      "name": "Asus TUF Gaming Radeon RX 9060 XT OC 16GB GDDR6",
-      "merchant": "Morele",
-      "price": 3868.0,
-      "url": "https://tagdip.pl/p/3364/asus-tuf-gaming-radeon-rx-9060-xt-oc-16gb-gddr6",
       "inStock": true
     },
     {
@@ -179,7 +170,7 @@
       "brand": "Gigabyte",
       "name": "Gigabyte Radeon RX 9060 XT Gaming 16GB GDDR6",
       "merchant": "Morele",
-      "price": 4357.03,
+      "price": 4354.1,
       "url": "https://tagdip.pl/p/3075/gigabyte-radeon-rx-9060-xt-gaming-16gb-gddr6",
       "inStock": true
     }
