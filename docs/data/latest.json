@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T14:54:15+01:00",
+  "updatedAt": "2026-11-15T15:27:40+01:00",
   "source": "TagDip",
   "sourceUrl": "https://tagdip.pl/m/3/radeon-rx-9060-xt-16-gb",
   "items": [
@@ -46,6 +46,15 @@
       "merchant": "RTV Euro AGD",
       "price": 3099.0,
       "url": "https://tagdip.pl/p/124/asrock-radeon-rx-9060-xt-steel-legend-oc-16gb-gddr6",
+      "inStock": true
+    },
+    {
+      "id": "gigabyte-radeon-rx-9060-xt-gaming-oc-16gb-gddr6",
+      "brand": "Gigabyte",
+      "name": "Gigabyte Radeon RX 9060 XT Gaming OC 16GB GDDR6",
+      "merchant": "Komputronik",
+      "price": 3099.0,
+      "url": "https://tagdip.pl/p/11/gigabyte-radeon-rx-9060-xt-gaming-oc-16gb-gddr6",
       "inStock": true
     },
     {
@@ -103,10 +112,19 @@
       "inStock": true
     },
     {
+      "id": "asus-dual-radeon-rx-9060-xt-16gb-gddr6",
+      "brand": "Asus",
+      "name": "Asus Dual Radeon RX 9060 XT 16GB GDDR6",
+      "merchant": "Komputronik",
+      "price": 3349.0,
+      "url": "https://tagdip.pl/p/128/asus-dual-radeon-rx-9060-xt-16gb-gddr6",
+      "inStock": true
+    },
+    {
       "id": "powercolor-reaper-radeon-rx-9060-xt-16gb-gddr6",
       "brand": "PowerColor",
       "name": "POWERCOLOR Reaper Radeon RX 9060 XT 16GB GDDR6",
-      "merchant": "Morele",
+      "merchant": "Komputronik",
       "price": 3499.0,
       "url": "https://tagdip.pl/p/95/powercolor-reaper-radeon-rx-9060-xt-16gb-gddr6",
       "inStock": true
@@ -154,24 +172,6 @@
       "merchant": "Morele",
       "price": 3732.99,
       "url": "https://tagdip.pl/p/89/xfx-swift-radeon-rx-9060-xt-oc-white-triple-fan-gaming-16gb-gddr6",
-      "inStock": true
-    },
-    {
-      "id": "gigabyte-radeon-rx-9060-xt-gaming-oc-16gb-gddr6",
-      "brand": "Gigabyte",
-      "name": "Gigabyte Radeon RX 9060 XT Gaming OC 16GB GDDR6",
-      "merchant": "RTV Euro AGD",
-      "price": 3789.0,
-      "url": "https://tagdip.pl/p/11/gigabyte-radeon-rx-9060-xt-gaming-oc-16gb-gddr6",
-      "inStock": true
-    },
-    {
-      "id": "asus-dual-radeon-rx-9060-xt-16gb-gddr6",
-      "brand": "Asus",
-      "name": "Asus Dual Radeon RX 9060 XT 16GB GDDR6",
-      "merchant": "Morele",
-      "price": 3789.32,
-      "url": "https://tagdip.pl/p/128/asus-dual-radeon-rx-9060-xt-16gb-gddr6",
       "inStock": true
     },
     {
