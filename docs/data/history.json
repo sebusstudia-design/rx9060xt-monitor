@@ -336,6 +336,25 @@
         "asus-tuf-gaming-radeon-rx-9060-xt-oc-16gb-gddr6": 3891.55,
         "gigabyte-radeon-rx-9060-xt-gaming-16gb-gddr6": 4478.14
       }
+    },
+    {
+      "date": "2026-11-21",
+      "checkedAt": "2026-11-21T16:02:16+01:00",
+      "minPrice": 3159.0,
+      "count": 11,
+      "prices": {
+        "xfx-swift-radeon-rx-9060-xt-oc-triple-fan-gaming-16gb-gddr6": 3159.0,
+        "asrock-radeon-rx-9060-xt-challenger-oc-16gb-gddr6": 3175.0,
+        "sapphire-pure-radeon-rx-9060-xt-16gb-gddr6": 3199.0,
+        "sapphire-nitro-radeon-rx-9060-xt-16gb-gddr6": 3272.09,
+        "powercolor-reaper-radeon-rx-9060-xt-16gb-gddr6": 3499.0,
+        "asus-dual-radeon-rx-9060-xt-16gb-gddr6": 3549.0,
+        "xfx-mercury-radeon-rx-9060-xt-oc-gaming-white-16gb-gddr6": 3618.66,
+        "gigabyte-radeon-rx-9060-xt-gaming-oc-ice-16gb-gddr6": 3719.0,
+        "xfx-swift-radeon-rx-9060-xt-oc-white-triple-fan-gaming-16gb-gddr6": 3784.99,
+        "asus-tuf-gaming-radeon-rx-9060-xt-oc-16gb-gddr6": 3926.29,
+        "gigabyte-radeon-rx-9060-xt-gaming-16gb-gddr6": 4478.14
+      }
     }
   ]
 }
