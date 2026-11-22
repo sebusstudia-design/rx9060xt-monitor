@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-11-21T16:02:16+01:00",
+  "updatedAt": "2026-11-22T15:59:32+01:00",
   "source": "TagDip",
   "sourceUrl": "https://tagdip.pl/m/3/radeon-rx-9060-xt-16-gb",
   "items": [
-    {
-      "id": "xfx-swift-radeon-rx-9060-xt-oc-triple-fan-gaming-16gb-gddr6",
-      "brand": "XFX",
-      "name": "XFX Swift Radeon RX 9060 XT OC Triple Fan Gaming 16GB GDDR6",
-      "merchant": "RTV Euro AGD",
-      "price": 3159.0,
-      "url": "https://tagdip.pl/p/12/xfx-swift-radeon-rx-9060-xt-oc-triple-fan-gaming-16gb-gddr6",
-      "inStock": true
-    },
     {
       "id": "asrock-radeon-rx-9060-xt-challenger-oc-16gb-gddr6",
       "brand": "ASRock",
@@ -19,24 +10,6 @@
       "merchant": "Proline",
       "price": 3175.0,
       "url": "https://tagdip.pl/p/1729/asrock-radeon-rx-9060-xt-challenger-oc-16gb-gddr6",
-      "inStock": true
-    },
-    {
-      "id": "sapphire-pure-radeon-rx-9060-xt-16gb-gddr6",
-      "brand": "Sapphire",
-      "name": "Sapphire Pure Radeon RX 9060 XT 16GB GDDR6",
-      "merchant": "RTV Euro AGD",
-      "price": 3199.0,
-      "url": "https://tagdip.pl/p/97/sapphire-pure-radeon-rx-9060-xt-16gb-gddr6",
-      "inStock": true
-    },
-    {
-      "id": "sapphire-nitro-radeon-rx-9060-xt-16gb-gddr6",
-      "brand": "Sapphire",
-      "name": "Sapphire Nitro+ Radeon RX 9060 XT 16GB GDDR6",
-      "merchant": "Morele",
-      "price": 3272.09,
-      "url": "https://tagdip.pl/p/69/sapphire-nitro-radeon-rx-9060-xt-16gb-gddr6",
       "inStock": true
     },
     {
@@ -73,15 +46,6 @@
       "merchant": "Proline",
       "price": 3719.0,
       "url": "https://tagdip.pl/p/86/gigabyte-radeon-rx-9060-xt-gaming-oc-ice-16gb-gddr6",
-      "inStock": true
-    },
-    {
-      "id": "xfx-swift-radeon-rx-9060-xt-oc-white-triple-fan-gaming-16gb-gddr6",
-      "brand": "XFX",
-      "name": "XFX Swift Radeon RX 9060 XT OC White Triple Fan Gaming 16GB GDDR6",
-      "merchant": "Morele",
-      "price": 3784.99,
-      "url": "https://tagdip.pl/p/89/xfx-swift-radeon-rx-9060-xt-oc-white-triple-fan-gaming-16gb-gddr6",
       "inStock": true
     },
     {
