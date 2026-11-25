@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-11-24T19:33:39+01:00",
+  "updatedAt": "2026-11-25T18:44:56+01:00",
   "source": "TagDip",
   "sourceUrl": "https://tagdip.pl/m/3/radeon-rx-9060-xt-16-gb",
   "items": [
     {
-      "id": "xfx-swift-radeon-rx-9060-xt-oc-gaming-16gb-gddr6",
-      "brand": "XFX",
-      "name": "XFX Swift Radeon RX 9060 XT OC Gaming 16GB GDDR6",
-      "merchant": "RTV Euro AGD",
-      "price": 3099.0,
-      "url": "https://tagdip.pl/p/74/xfx-swift-radeon-rx-9060-xt-oc-gaming-16gb-gddr6",
+      "id": "gigabyte-radeon-rx-9060-xt-gaming-oc-16gb-gddr6",
+      "brand": "Gigabyte",
+      "name": "Gigabyte Radeon RX 9060 XT Gaming OC 16GB GDDR6",
+      "merchant": "Media Expert",
+      "price": 2889.82,
+      "url": "https://tagdip.pl/p/11/gigabyte-radeon-rx-9060-xt-gaming-oc-16gb-gddr6",
       "inStock": true
     },
     {
-      "id": "xfx-swift-radeon-rx-9060-xt-oc-triple-fan-gaming-16gb-gddr6",
+      "id": "xfx-swift-radeon-rx-9060-xt-oc-gaming-16gb-gddr6",
       "brand": "XFX",
-      "name": "XFX Swift Radeon RX 9060 XT OC Triple Fan Gaming 16GB GDDR6",
-      "merchant": "RTV Euro AGD",
-      "price": 3159.0,
-      "url": "https://tagdip.pl/p/12/xfx-swift-radeon-rx-9060-xt-oc-triple-fan-gaming-16gb-gddr6",
+      "name": "XFX Swift Radeon RX 9060 XT OC Gaming 16GB GDDR6",
+      "merchant": "Media Expert",
+      "price": 2899.0,
+      "url": "https://tagdip.pl/p/74/xfx-swift-radeon-rx-9060-xt-oc-gaming-16gb-gddr6",
       "inStock": true
     },
     {
       "id": "asrock-radeon-rx-9060-xt-challenger-oc-16gb-gddr6",
       "brand": "ASRock",
       "name": "ASRock Radeon RX 9060 XT Challenger OC 16GB GDDR6",
-      "merchant": "Proline",
-      "price": 3175.0,
+      "merchant": "Media Expert",
+      "price": 2949.0,
       "url": "https://tagdip.pl/p/1729/asrock-radeon-rx-9060-xt-challenger-oc-16gb-gddr6",
       "inStock": true
     },
@@ -80,7 +80,7 @@
       "brand": "XFX",
       "name": "XFX Swift Radeon RX 9060 XT OC White Triple Fan Gaming 16GB GDDR6",
       "merchant": "Morele",
-      "price": 3787.99,
+      "price": 3793.99,
       "url": "https://tagdip.pl/p/89/xfx-swift-radeon-rx-9060-xt-oc-white-triple-fan-gaming-16gb-gddr6",
       "inStock": true
     },
